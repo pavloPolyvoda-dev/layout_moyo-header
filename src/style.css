@@ -2,18 +2,18 @@
   --blue: #00acdc;
 }
 
-body,
-ul {
+.body,
+.nav__item{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-header img {
+.header .image-logo {
   margin-left: 50px;
 }
 
-header {
+.header {
   width: 100%;
   display: flex;
   align-items: center;
